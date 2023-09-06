@@ -1,0 +1,8 @@
+TestAddEdge 1 0.0279974
+TestBasicGraph 1 0.0264322
+TestFromMermaid 1 0.0442118
+TestGraphNode 1 0.0228569
+TestProducerConsumer 1 0.767375
+TestRegex 1 0.0307967
+TestToMermaid 1 0.0262539
+---

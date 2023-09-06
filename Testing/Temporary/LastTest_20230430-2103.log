@@ -1,0 +1,37 @@
+Start testing: Apr 30 23:03 CEST
+----------------------------------------------------------
+7/7 Testing: TestToMermaid
+7/7 Test: TestToMermaid
+Command: "/Users/pritamchakraborty/Downloads/lab6_ws/build/bin/test/SmartPointers/TestToMermaid"
+Directory: /Users/pritamchakraborty/Downloads/lab6_ws/build/bin/test/SmartPointers
+"TestToMermaid" start time: Apr 30 23:03 CEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/pritamchakraborty/Downloads/lab6_ws/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from TestGraph
+[ RUN      ] TestGraph.Const
+[       OK ] TestGraph.Const (0 ms)
+[ RUN      ] TestGraph.EmptyGraph
+[       OK ] TestGraph.EmptyGraph (0 ms)
+[ RUN      ] TestGraph.SingleNode
+[       OK ] TestGraph.SingleNode (0 ms)
+[ RUN      ] TestGraph.MultipleNodes
+[       OK ] TestGraph.MultipleNodes (0 ms)
+[ RUN      ] TestGraph.Edges
+[       OK ] TestGraph.Edges (0 ms)
+[----------] 5 tests from TestGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestToMermaid" end time: Apr 30 23:03 CEST
+"TestToMermaid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 30 23:03 CEST

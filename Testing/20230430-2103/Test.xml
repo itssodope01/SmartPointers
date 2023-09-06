@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-g++-12"
+	BuildStamp="20230430-2103-Experimental"
+	Name="Pritams-MacBook-Pro.local"
+	Generator="ctest-3.26.2"
+	CompilerName="/usr/local/bin/g++-12"
+	CompilerVersion="12.2.0"
+	OSName="macOS"
+	Hostname="Pritams-MacBook-Pro.local"
+	OSRelease="13.3.1"
+	OSVersion="22E261"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="1400"
+	>
+	<Testing>
+		<StartDateTime>Apr 30 23:03 CEST</StartDateTime>
+		<StartTestTime>1682888611</StartTestTime>
+		<TestList>
+			<Test>./bin/test/SmartPointers/TestToMermaid</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestToMermaid</Name>
+			<Path>./bin/test/SmartPointers</Path>
+			<FullName>./bin/test/SmartPointers/TestToMermaid</FullName>
+			<FullCommandLine>/Users/pritamchakraborty/Downloads/lab6_ws/build/bin/test/SmartPointers/TestToMermaid</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0262539</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/pritamchakraborty/Downloads/lab6_ws/build/bin/test/SmartPointers/TestToMermaid</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkk1PwzAMhu/9FT6uhzZwgBsHxKYdEAO17FRVVdqGLiJfSlym/XvSdnQUqIpPdvzmsZ04aZXiqgFJuVqF8Ga1BLJ3zDpiLEcqqwN9t7TUFk9krY9KaFo7Imh5WxwdKVsualLUzDjSaN0Ihsxh5Gz1LSR92HlFVyauqiC7Gy2H5NzDDXQaNzRx3QfgWo4sDrJotBy2QpdUDHmmPrjVSjLltQyj1vwQT6Cv3t1aag5BBsl+B73ll+P4QSuHPjnY8+PvJKyuQLpwDrCRBk9fJf6kXBQLqNS/iWA7XbM51EWxgHpqBXIzSN0cbSJaGrNu5kF9cgQsf8YgBdRIRRj876+RURvVfh+nqzS7QmCpiqeFfPcv92m6WXejnS/GwSda7/Ri====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 30 23:03 CEST</EndDateTime>
+		<EndTestTime>1682888611</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
