@@ -1,4 +1,4 @@
-
+## Required (or at least recommended) Code extensions:
 
 ```
 code --install-extension ms-vscode.cmake-tools
